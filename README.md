@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Firstly Run `npm ci` instead of `npm install`
 
-Run `npm run serve`   // this is script command that we created 
+Run `npm run serve`   // this is script command that we created in Package.json
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
